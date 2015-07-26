@@ -1,10 +1,6 @@
-# Hack Days
+# Awesome Open Data Latam
 
-Es una hackathon relacionada con datos abiertos? no sabes exactamente cuales podrian ser buenas contribuciones?.
-Aqui puedes encontrar una lista de todos que serian contribuciones utiles.
-
-Esperamos hacer esta lista mas larga con sugerencias. Las sugerencias pueden ser cualquier actividad, no solo referirse a datasets
-
+Lista con informacion sobre datasets, organizaciones, eventos y herramientas relacionadas con Open Data en Latinoamerica.
 
 ## Conferencias / Organizaciones
 
@@ -94,7 +90,7 @@ Esperamos hacer esta lista mas larga con sugerencias. Las sugerencias pueden ser
 
 # Contributors?
 
-Esta lista inicio en un hackpad. 
+Esta lista inicio de un hackpad. 
 
 Gracias a :
 
